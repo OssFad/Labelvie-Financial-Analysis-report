@@ -1,5 +1,7 @@
 # 📊 Financial Analysis of Labelvie Company
 
+![Alt Text](https://github.com/OssFad/Sonasid-Financial-Analysis/blob/main/sonasid.PNG)
+
 ##  Link to Visualize the Dashboard
 
 [View my Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMGU5ZWEwMTgtOTkxOS00OTE2LWJiOTAtNzdmMWM1NzdhMTZmIiwidCI6IjNkZmE1ODc5LTQ3NmYtNDViNC04MDc5LWZlNjBlYWYzZjhhNSJ9
