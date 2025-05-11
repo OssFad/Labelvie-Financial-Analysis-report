@@ -1,6 +1,6 @@
 # 📊 Financial Analysis of Labelvie Company
 
-![Alt Text](https://github.com/OssFad/Sonasid-Financial-Analysis/blob/main/sonasid.PNG)
+![Alt Text](https://github.com/OssFad/Labelvie-Financial-Analysis-report/blob/main/Capture.PNG)
 
 ##  Link to Visualize the Dashboard
 
