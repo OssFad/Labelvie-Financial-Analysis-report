@@ -1,5 +1,10 @@
 # 📊 Financial Analysis of Labelvie Company
 
+##  Link to Visualize the Dashboard
+
+[View my Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMGU5ZWEwMTgtOTkxOS00OTE2LWJiOTAtNzdmMWM1NzdhMTZmIiwidCI6IjNkZmE1ODc5LTQ3NmYtNDViNC04MDc5LWZlNjBlYWYzZjhhNSJ9
+)
+
 This repository contains a comprehensive financial analysis of **Labelvie Company**, a key player in the Moroccan retail sector. The project covers the full data pipeline from **web scraping** and **data preprocessing in Python**, to the **visualization of financial ratios and metrics in Power BI**.
 
 ## 🔍 Project Overview
